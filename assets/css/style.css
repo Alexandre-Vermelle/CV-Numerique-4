@@ -303,6 +303,9 @@ body {
 .cactus1, .cactus2{
   display: none;
 }
+.parallax {
+  height: 400px;
+}
 
 
 
