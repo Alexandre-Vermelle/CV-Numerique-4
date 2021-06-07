@@ -305,6 +305,7 @@ body {
 }
 .parallax {
   height: 400px;
+  width: 100%;
 }
 
 
