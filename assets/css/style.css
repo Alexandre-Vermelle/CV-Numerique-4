@@ -205,14 +205,14 @@ body {
      
   }
 
-/*DEBUT PARALLAX 1*/
+/*DEBUT PARALLAX 1
 
 .parallax {
-    /* Image utilisée */
-    background-image: url("arizona.jpg");
-    /* Hauteur du parallax */
+    Image utilisée */
+    /*background-image: url("arizona.jpg");
+    /* Hauteur du parallax 
     height: 600px;
-    /* Création de l'effet parallax en scrollant */
+    /* Création de l'effet parallax en scrollant 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
