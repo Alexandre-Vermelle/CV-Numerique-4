@@ -210,7 +210,7 @@ body {
 
 .parallax {
     /* Image utilisée */
-    background-image: url("monument-valley.png");
+    background-image: url("arizona.jpg");
     /* Hauteur du parallax */
     height: 600px;
     /* Création de l'effet parallax en scrollant */
