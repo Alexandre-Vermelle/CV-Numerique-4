@@ -192,7 +192,8 @@ body {
     }
     .pic {
       opacity : 90%;
-     border-color: transparent;
+     border: 5px black;
+     border-style: double;
     }
 
     .adress {
@@ -216,7 +217,7 @@ body {
     /* Création de l'effet parallax en scrollant */
     background-attachment: fixed;
     background-position: center;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: cover;
     opacity: 70%;
   }
@@ -287,6 +288,8 @@ body {
   
 
    /* fin highlights */ 
+
+   
  
  
   @media (max-width : 768px)
