@@ -3,7 +3,7 @@
 
 
 
-/* learning 
+/* learning */
 
 *, *:before, *:after {
   box-sizing: border-box;
@@ -147,14 +147,14 @@
 }
 
 
-/* fin learning 
+/* fin learning */
 
 body {
    background-image: url(background2.jpg);
     background-repeat: repeat;
   
    
-  }*/
+  }
 
 .wanted{
  font-size: 200px;
@@ -183,7 +183,8 @@ body {
 
      .stamp1, .stamp2 {
       opacity: 70%;
-    
+     margin:auto;
+    display:flex;
     }
     
     .map {
@@ -205,14 +206,14 @@ body {
      
   }
 
-/*DEBUT PARALLAX 1
+/*DEBUT PARALLAX 1*/
 
 .parallax {
-    Image utilisée */
-    /*background-image: url("arizona.jpg");
-    /* Hauteur du parallax 
+    /* Image utilisée */
+    background-image: url("monument-valley.png");
+    /* Hauteur du parallax */
     height: 600px;
-    /* Création de l'effet parallax en scrollant 
+    /* Création de l'effet parallax en scrollant */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -223,7 +224,7 @@ body {
   /*FIN PARALLAX 1*/
 
 
-  /* highlights 
+  /* highlights */
   
   .papers,
   .papers:before,
