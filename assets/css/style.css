@@ -83,7 +83,7 @@ h1 {
   z-index: 3;
 }
 
-.container {
+.container1 {
   margin-top: -170px;
   z-index: -4;
   position: relative;
@@ -514,7 +514,7 @@ h1 {
   /* Image utilisée */
   background-image: url("monument-valley.png");
   /* Hauteur du parallax */
-  height: 600px;
+  height: 700px;
   /* Création de l'effet parallax en scrollant */
   background-attachment: fixed;
   background-position: center;
@@ -534,6 +534,23 @@ h1 {
   .name {
     font-size: 40px;
   }
+  .parallax {
+    height: 600px;
+    width: 100%;
+  }
+
+  .job-description1{
+padding-top: 24px;
+  }
+
+  
+@media (max-width: 500px) {
+  .wanted {
+    font-size: 105px;
+  }
+  .name {
+    font-size: 40px;
+  }
   .stamp2 {
     display: none;
   }
@@ -544,3 +561,5 @@ h1 {
     height: 400px;
     width: 100%;
   }
+  .job-description1{
+    padding-top: 0px;
